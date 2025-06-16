@@ -14,9 +14,9 @@ A simple, responsive quote generator built using **React** and **TailwindCSS**.
 
 ---
 
-### 🚀 Live Demo
+<!--### 🚀 Live Demo
 
-🔗 [View on Netlify](https://your-netlify-link.netlify.app)  
+🔗 [View on Netlify](https://your-netlify-link.netlify.app)  -->
 <!-- Replace with your actual Netlify link after deployment -->
 
 ---
